@@ -342,6 +342,7 @@ char_test <- getPredictionMetrics(as.character(resp), pred)
 
 For this section, you’ll connect to the news API here: newsapi.org. You’ll need to go to register for a key at that web site!
 
+
   1. Use GET() from the httr package to return information about a topic that you are interested in that
 has been in the news lately (store the result as an R object). Note: We can only look 30 days into the
 past with a free account.
