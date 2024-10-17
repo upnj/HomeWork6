@@ -47,6 +47,7 @@ These advantages contribute to more readable, maintainable, and less error-prone
 ## What is a side-effect function?
 
 A side-effect function in R is a function that modifies something outside of its local environment or performs an action beyond simply returning a value. These functions are called primarily for their side effects rather than for their return values.
+
 Key characteristics of side-effect functions include:
 
 1. They often modify the global environment or external state.
